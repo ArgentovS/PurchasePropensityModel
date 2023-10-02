@@ -1,7 +1,7 @@
 import multiprocessing
 from multiprocessing import Pool, Manager
 import datetime as dt
-from pagkage.preparation import add_freq_product_color, freq_product_color
+from package.preparation import add_freq_product_color, freq_product_color
 
 import pandas as pd
 
